@@ -1,0 +1,3 @@
+guest_name = input("what is your name playa?")
+print("wassup", guest_name)
+print("meow meow meow meow")
