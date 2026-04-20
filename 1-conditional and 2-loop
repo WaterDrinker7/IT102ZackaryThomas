@@ -1,0 +1,10 @@
+#this is the input function that asks the user about their day
+answer = input("is today a good day? (y/n) ")
+
+#it responds if statement is equal to y
+if answer == "y":
+    print("yes it is")
+
+#lmao this is the one you should use
+if answer == "n":
+    print("no it isn't")
